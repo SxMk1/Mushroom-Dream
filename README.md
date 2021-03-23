@@ -9,4 +9,4 @@ I started this tileset to contribute to the CDDA project and develop myself as a
 
 This is still in it's early phase and a WIP, but give it a look if you'd like.
 
-Many thanks for @Fris0uman for handling all the programing black magic.
+Many thanks to @Fris0uman for handling all the programing black magic.
