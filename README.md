@@ -10,3 +10,8 @@ I started this tileset to contribute to the CDDA project and develop myself as a
 This is still in it's early phase and a WIP, but give it a look if you'd like.
 
 Many thanks to # @Fris0uman for handling all the programing black magic.
+
+
+
+
+I'm currently open to commissions and other kinds of work. Please send me an email for inquirires.
