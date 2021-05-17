@@ -12,4 +12,7 @@ JSON: tile_config.json
 #Tileset Path - Default of tinytile.png
 TILESET: normal.png
 
-#Find source github at https://github.com/AlbertTheTerrible/Mushroom-Dream
+
+#Visit https://discord.gg/kAXNZuy to discuss and contribute to this community-driven tileset!
+#Development ongoing constantly!
+#Find source github at https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/Mushroom-Dream
